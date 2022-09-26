@@ -1,7 +1,5 @@
-# JavaScript
-# JavaScript Beginner Track
 
-# JavaScript
+# JavaScript Beginner Track
 
 **JavaScript** (**JS**) is a lightweight, interpreted, or [just-in-time](https://en.wikipedia.org/wiki/Just-in-time_compilation) compiled programming language. While it is most well-known as the scripting language for Web pages, [many non-browser environments](https://en.wikipedia.org/wiki/JavaScript#Other_usage) also use it, such as [Node.js](https://developer.mozilla.org/en-US/docs/Glossary/Node.js), [Apache CouchDB](https://couchdb.apache.org/), and [Adobe Acrobat](https://www.adobe.com/devnet/acrobat/javascript.html). For web designers, we can simply say this adds functionality to your web pages also known as the brain of a webpage.
 
